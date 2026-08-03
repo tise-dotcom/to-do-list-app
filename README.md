@@ -4,10 +4,13 @@ A lightweight, desktop-based task management application built using Java and Ja
 
 ## Features
 
- Add Tasks: Quickly input new tasks to keep track of your goals.
- Save & Cancel: Dedicated controls to confirm task creation or clear the input field.
- Delete Tasks: Easily remove items from your list once they are no longer needed.
- Mark as Complete: A checkbox next to each task allows users to strike through the text, visually marking it as finished.
+Add Tasks: Quickly input new tasks to keep track of your goals.
+
+Save & Cancel: Dedicated controls to confirm task creation or clear the input field.
+
+Delete Tasks: Easily remove items from your list once they are no longer needed.
+
+Mark as Complete: A checkbox next to each task allows users to strike through the text, visually marking it as finished.
 
 ## Project Architecture
 
